@@ -1,0 +1,10 @@
+
+loans:
+  message: "Welcome to LOANS-SERVICE EazyBank accounts related local PROD APIs "
+  contactDetails:
+    name: "LOANS - PROD"
+    email: "loans@eazybank.qa"
+  onCallSupport:
+    - (555) 555-6789
+    - (555) 523-6780
+    - (054) 867-0632

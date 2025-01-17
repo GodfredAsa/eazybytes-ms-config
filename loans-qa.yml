@@ -1,0 +1,9 @@
+
+loans:
+  message: "Welcome to LOANS-SERVICE EazyBank accounts related local QA APIs "
+  contactDetails:
+    name: "LOANS - QA"
+    email: "loans@eazybank.qa"
+  onCallSupport:
+    - (555) 555-6789
+    - (555) 523-6780

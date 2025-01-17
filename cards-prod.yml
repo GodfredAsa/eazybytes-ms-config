@@ -1,0 +1,10 @@
+
+cards:
+    message: "Welcome to EazyBank Cards related local PRODUCTION APIs "
+    contactDetails:
+        name: "GODFRED ASSUMADU ASAMOAH - PROD"
+        email: "prod@eazybank.qa"
+    onCallSupport:
+        - (555) 188-6787
+        - (555) 554-6782
+

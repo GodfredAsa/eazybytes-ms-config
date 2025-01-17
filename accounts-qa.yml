@@ -1,0 +1,9 @@
+accounts:
+    message: "Welcome to EazyBank accounts related local QA APIs "
+    contactDetails:
+        name: "Jones Fiofio Doe - QA"
+        email: "jones@eazybank.qa"
+    onCallSupport:
+        - (555) 555-6789
+        - (555) 523-6780
+

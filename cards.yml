@@ -1,0 +1,10 @@
+server:
+  port: 9000
+cards:
+  message: "Welcome to EazyBank Cards related APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "card@eazybank.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
